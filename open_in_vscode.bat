@@ -1,0 +1,3 @@
+@echo off
+echo Opening Multimodal Construction Intelligence Platform in VS Code...
+code .

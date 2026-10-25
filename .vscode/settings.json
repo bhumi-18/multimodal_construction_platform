@@ -1,0 +1,12 @@
+{
+    "python.terminal.activateEnvironment": true,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "files.exclude": {
+        "**/.git": false,
+        "**/__pycache__": true,
+        "**/*.pyc": true
+    }
+}
